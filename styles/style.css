@@ -1,11 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Space+Mono&display=swap');
 
 body {
-  background-color: lightgray;
+  background-color: seagreen;
 }
 
-.navbar-brand, h3 {
-  font-family: 'Ms Madi', cursive;
+h1 {
+  font-family: 'Bungee Spice', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Bungee Spice', cursive;
 }
 
 #outputDiv {
